@@ -1,7 +1,8 @@
 <h1> Hi there 👋 I'm Tommy Tung </h1>
-<h1> Welcome to my Github! </h1> 
+<h2> Welcome to my Github! </h2> 
 
-<div class="tenor-gif-embed" data-postid="22656380" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-space-nyan-cat-gif-22656380">Cat Space GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- <div class="tenor-gif-embed" data-postid="22656380" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-space-nyan-cat-gif-22656380">Cat Space GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
+<img src="https://i.pinimg.com/originals/ed/01/22/ed012259c25cd0a787064216db37c22d.gif"/>
 
 <!--
 **tungov-dev/tungov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
